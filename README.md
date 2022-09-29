@@ -17,7 +17,7 @@ The project contains two sections, generators and templates.
 - [ ] Case Sheet (Operation Sheet)
 - [ ] Night at the Opera (Operation Overview, Operation Structure, Unnatural Entity Details, Ritual Details from Delta Green Handlers Guid)
 - [ ] COC Tracking sheet ([Based on The Fall of Delta Green Handler's Agent Tracking Sheet](https://pelgranepress.com/2018/04/23/free-downloads-and-resources-for-the-fall-of-delta-green/))
-- [ ] Internal Message (see InternalMessageInstructions.md in propMaking)
+- [ ] Internal Message
 
 ## Credits:
 
