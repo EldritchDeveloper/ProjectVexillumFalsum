@@ -6,18 +6,21 @@ The project contains two sections, generators and templates.
 
 ## The generators:
 
-- [ ] Operation Document Generator
-- [ ] Operation Name Generator
-- [ ] Case Number Generator
-- [ ] Code Name Generator
-- [ ] Operation Seed Generator
+- [x] Operation Document Generator
+- [x] Operation Name Generator
+- [x] Case Number Generator
+- [x] Code Name Generator
+- [x] Operation Seed Generator
 
 ## The templates:
 
+Currently they are not form fillable, and most are still missing
+
 - [ ] Case Sheet (Operation Sheet)
-- [ ] Night at the Opera (Operation Overview, Operation Structure, Unnatural Entity Details, Ritual Details from Delta Green Handlers Guid)
-- [ ] COC Tracking sheet ([Based on The Fall of Delta Green Handler's Agent Tracking Sheet](https://pelgranepress.com/2018/04/23/free-downloads-and-resources-for-the-fall-of-delta-green/))
+- [x] Night at the Opera (Operation Overview, Operation Structure, Unnatural Entity Details, Ritual Details from Delta Green Handlers Guid)
+- [x] COC Tracking sheet ([Based on The Fall of Delta Green Handler's Agent Tracking Sheet](https://pelgranepress.com/2018/04/23/free-downloads-and-resources-for-the-fall-of-delta-green/)) (This will be redone for higher quality)
 - [ ] Internal Message
+- [ ] Classified Message ([Based on this document by @Travern](https://twitter.com/travern82/status/1205912205629231106))
 
 ## Credits:
 
